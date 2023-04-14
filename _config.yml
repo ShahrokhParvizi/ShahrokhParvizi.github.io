@@ -13,7 +13,7 @@ name                     : &name "Shahrokh Parvizi"
 description              : &description "personal description"
 url                      : https://shahrokhparvizi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ph504/ph504.github.io"
+repository               : "shahrokhparvizi/shahrokhparvizi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arya Parvizi"
+  name             : "Shahrokh Parvizi"
   avatar           : "profile.png"
-  bio              : "Bsc. degree of computer engineering from shahid beheshti university. passionate about robotics. physics and mathematics enthusiast."
+  bio              : "Tarbiat Modares University"
   location         : "Iran, Tehran"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "aryaparvizi98@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Arya_Parvizi2" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=gQO2HaUAAAAJ #"http://yourfullgooglescholarurl.com"
+  email            : "parvizi.adscft@gmail.com"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ph504"
+  github           : "shahrokhparvizi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "arya-parvizi/"
+  linkedin         : 
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "majfish1"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
