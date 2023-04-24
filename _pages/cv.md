@@ -18,9 +18,9 @@ redirect_from:
 
 
 ## Education
-- B. Sc. Mechanical Engineering, Shiraz University, Shiraz, Iran, Feb. 1991
-- M.Sc. Physics, Tehran University, Tehran, Iran, Feb. 1993
-- PhD. Physics, Sharif University of Technology,  Tehran, Iran, Oct. 1996
+- PhD. Physics, Sharif University of Technology,  Tehran, Iran, Oct. 1996.
+- M.Sc. Physics, Tehran University, Tehran, Iran, Feb. 1993.
+- B. Sc. Mechanical Engineering, Shiraz University, Shiraz, Iran, Feb. 1991.
 
 
 ## Research Interest
@@ -30,12 +30,12 @@ redirect_from:
 
 ## Employment Records
 - Tarbiat Modares University, Tehran, Iran, Sep. 2010-Present.
-- Sharif University of Technology, Tehran, Iran, Sep. 2006- Sep. 2010,
-- Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Apr. 2002- Sep. 2006,
-- Tata Institute of Fundamental Research (TIFR), Mumbai, India, (Visiting Fellow) May 2001- Apr. 2002,
-- Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Sep. 2000- May 2001,
-- Shahid Rajaee University, Tehran, Iran, Feb. 1999- Sep. 2000,  
-- Military Service, Tehran, Iran, Sep. 1997- Dec. 1998,
+- Sharif University of Technology, Tehran, Iran, Sep. 2006- Sep. 2010.
+- Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Apr. 2002- Sep. 2006.
+- Tata Institute of Fundamental Research (TIFR), Mumbai, India, (Visiting Fellow), May 2001- Apr. 2002.
+- Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Sep. 2000- May 2001.
+- Shahid Rajaee University, Tehran, Iran, Feb. 1999- Sep. 2000. 
+- Military Service, Tehran, Iran, Sep. 1997- Dec. 1998.
 
 
 

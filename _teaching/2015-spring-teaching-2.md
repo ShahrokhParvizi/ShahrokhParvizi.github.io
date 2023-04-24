@@ -11,16 +11,16 @@ location: "City, Country"
 This course gives different aspects of the AdS/CFT correspondence. 
 
 We give an introduction to 
--	large N gauge field, 
--	general relativity, 
+-	Large N gauge field, 
+-	General relativity, 
 -	AdS Space and black holes, 
--	string theory, 
+-	String theory, 
 -	AdS/CFT correspondence, 
 -	Conformal field theories,
 -	Witten prescription and AdS/CFT dictionary,
 -	Finite temperature,
 -	Wilson loops,
--	non-equilibrium holography
+-	Non-equilibrium holography
 
 Text Books:
 1. "AdS/CFT Duality User Guide" by Makoto Natsuume.

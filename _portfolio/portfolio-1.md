@@ -4,7 +4,7 @@ excerpt: "TBA"
 collection: portfolio
 ---
 
-![](/images/bachelor.png)
+
 
 TBA
 
@@ -12,3 +12,4 @@ TBA
 TBA
 
 <!-- ![]() -->
+<!-- ![](/images/bachelor.png)> 
