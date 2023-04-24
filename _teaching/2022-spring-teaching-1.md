@@ -8,7 +8,9 @@ date: 2022-09-01
 location: "Tehran, Iran"
 ---
 
-This is an introductory course on the standard model of particle physics. My approach is a theoretical point of view which is based on the Quantum Field Theory. Nonetheless, I try to deliver it independently while heavily relies on the Quantum Mechanics. Important items are the following: 
+This is an introductory course on the standard model of particle physics. 
+
+My approach is a theoretical point of view which is based on the Quantum Field Theory. Nonetheless, I try to deliver it independently while heavily relies on the Quantum Mechanics. Important items are the following: 
 
 - Introduction
 - Preliminaries

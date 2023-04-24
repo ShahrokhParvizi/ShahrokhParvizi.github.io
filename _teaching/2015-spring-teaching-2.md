@@ -8,7 +8,9 @@ date: 2022-09-01
 location: "City, Country"
 ---
 
-This course gives different aspects of the AdS/CFT correspondence. We give an introduction to 
+This course gives different aspects of the AdS/CFT correspondence. 
+
+We give an introduction to 
 -	large N gauge field, 
 -	general relativity, 
 -	AdS Space and black holes, 
