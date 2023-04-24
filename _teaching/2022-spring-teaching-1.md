@@ -8,4 +8,4 @@ date: 2022-09-01
 location: "Tehran, Iran"
 ---
 
-This is an introductory course on the standard model of particle physics.
+This is an introductory course on the standard model of particle physics. Details TBA.
