@@ -1,11 +1,11 @@
 ---
-title: "Teaching assistant, Algorithms Design"
+title: "Particle Physics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2022-spring-teaching-1
-venue: "Shahid Beheshti University, Computer Science and Engineering Department"
-date: 2022-09-01
+venue: "Tarbiat Modares University, High Energy Theoretical Physics Department"
+date: Spring 2023
 location: "Tehran, Iran"
 ---
 
-In this course, I was responsible for teaching, pilotting, designing problems, and etc.
+This is an introductory course on the standard model of particle physics.

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-No publications yet. Please checkout the [projects](https://ph504.github.io/portfolio/) page.
+Please checkout [my papers](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20parvizi%2Cs) on INSPIRE HEP.
 
 <!-- 
 {% if author.googlescholar %}

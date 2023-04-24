@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 ## Summary
-I am a physicist. 
+I am a physicist. My field of study is the high energy theoretical physics which is supposed to describe the fundamental particles and their interactions. This field has substantial impact on our point of view towards the nature. We not only investigate particles and their fundamental forces, but also the structure of space-time, the evolution of the universe, and even much philosophical aspects of our thinking. This field involves amazing collaboration between mathematics, physics and even computer science. 
+
+## My research interest:
+For a decade, I have been focusing on the holography. It is rooted in string theory and can be explained as a duality between a gravity theory and a quantum field theory without gravity in one lower dimensions. The duality gives different description for one side from the point of view of the other side. A most promised manifestation of this duality is the AdS/CFT correspondence, in which a string theory on AdS5 x S5 is dual to a conformal field theory (CFT) on the boundary of AdS5. This makes it possible to describe strong coupling limit of CFT in terms of the low energy limit of string theory which is a classical gravity in 5 dimensions. On the other side, one may study the quantum gravity from the dual non-gravitational theory on the AdS boundary.  
+
 
 
 
