@@ -1,15 +1,25 @@
 ---
-title: "Instructor, Introduction to Robotics Workshop"
+title: "Gauge/Gravity correspondence"
 collection: teaching
-type: "Workshop"
+type: "Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Shahid Beheshti University, Computer Science and Engineering Department, Robotics Laboratory"
+venue: "Tarbiat Modares University, High Energy Theoretical Physics Department"
 date: 2022-09-01    
 location: "City, Country"
 ---
 
-This was a workshop, which included mini-projects related to Webots simulator, Image Processing, Python programming, artificial intelligence, and RoboCup soccer simulator 2D. the students enrolled were mostly freshman but there were some enthusiasts from sophmores and juniors.
+This course gives different aspects of the AdS/CFT correspondence. We give an introduction to 
+-	large N gauge field, 
+-	general relativity, 
+-	AdS Space and black holes, 
+-	string theory, 
+-	AdS/CFT correspondence, 
+-	Conformal field theories,
+-	Witten prescription and AdS/CFT dictionary,
+-	Finite temperature,
+-	Wilson loops,
+-	non-equilibrium holography
 
-Later the students who showed eagerness were recommended to the department laboratory and applied as prospective members under professor Armin Salimi-Badr's supervision.
-
-Some of the course materials were included in the [lab's github page](https://github.com/cserobotic/workshop-summer-2022).
+Text Books:
+1. "AdS/CFT Duality User Guide" by Makoto Natsuume.
+2. "Introduction to the AdS/CFT correspondence" by Horatiu Nastase.
