@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Tarbiat Modares University, High Energy Theoretical Physics Department"
-date: 2023-24-04
+date: 2022-09-01
 location: "Tehran, Iran"
 ---
 
