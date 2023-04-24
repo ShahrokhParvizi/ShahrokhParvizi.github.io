@@ -1,7 +1,7 @@
 ---
 title: "Gauge/Gravity correspondence"
 collection: teaching
-type: "Course"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Tarbiat Modares University, High Energy Theoretical Physics Department"
 date: 2022-09-01    

@@ -1,7 +1,7 @@
 ---
 title: "Particle Physics"
 collection: teaching
-type: "Graduate course"
+type: "Graduate Course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Tarbiat Modares University, High Energy Theoretical Physics Department"
 date: 2022-09-01
