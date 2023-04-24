@@ -9,38 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-My [resume.pdf](https://raw.githubusercontent.com/ph504/ap-resume/main/resume.pdf)
 
-\section{Personal Data}
-\begin{itemize}
-\item Name: Shahrokh Parvizi
-\item Date of Birth: 1967
-\item Nationality: Iranian
-\item Marital Status: Married, one child
-\end{itemize}
+## Personal Data
+- Date of Birth: 1967
+- Name: Shahrokh Parvizi
+- Nationality: Iranian
+- Marital Status: Married, one child
 
-\section{Education}
-\begin{itemize}
-\item B. Sc. Mechanical Engineering, Shiraz University, Shiraz, Iran, Feb. 1991
-\item M.Sc. Physics, Tehran University, Tehran, Iran, Feb. 1993
-\item PhD. Physics, Sharif University of Technology,  Tehran, Iran, Oct. 1996
-\end{itemize}
 
-\section{Research Interest}
-\begin{itemize}
-\item String Theory
-\item Holography: Gravity/Field Theory Correspondence
-\end{itemize}
+## Education
+- B. Sc. Mechanical Engineering, Shiraz University, Shiraz, Iran, Feb. 1991
+- M.Sc. Physics, Tehran University, Tehran, Iran, Feb. 1993
+- PhD. Physics, Sharif University of Technology,  Tehran, Iran, Oct. 1996
 
-\section{Employment Records}
-\begin{itemize}
-\item Tarbiat Modares University, Tehran, Iran, Sep. 2010-Present.
-\item Sharif University of Technology, Tehran, Iran, Sep. 2006- Sep. 2010,
-\item Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Apr. 2002- Sep. 2006,
-\item Tata Institute of Fundamental Research (TIFR), Mumbai, India, (Visiting Fellow) May 2001- Apr. 2002,
-\item Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Sep. 2000- May 2001,
-\item Shahid Rajaee University, Tehran, Iran, Feb. 1999- Sep. 2000,  
-\item Military Service, Tehran, Iran, Sep. 1997- Dec. 1998,
+
+## Research Interest
+- String Theory
+- Holography: Gravity/Field Theory Correspondence
+
+
+## Employment Records
+- Tarbiat Modares University, Tehran, Iran, Sep. 2010-Present.
+- Sharif University of Technology, Tehran, Iran, Sep. 2006- Sep. 2010,
+- Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Apr. 2002- Sep. 2006,
+- Tata Institute of Fundamental Research (TIFR), Mumbai, India, (Visiting Fellow) May 2001- Apr. 2002,
+- Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, Sep. 2000- May 2001,
+- Shahid Rajaee University, Tehran, Iran, Feb. 1999- Sep. 2000,  
+- Military Service, Tehran, Iran, Sep. 1997- Dec. 1998,
 
 
 
