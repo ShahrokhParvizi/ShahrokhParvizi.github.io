@@ -11,5 +11,4 @@ TBA
 # Abstract
 TBA
 
-<!-- ![]() -->
 <!-- ![](/images/bachelor.png) --> 
