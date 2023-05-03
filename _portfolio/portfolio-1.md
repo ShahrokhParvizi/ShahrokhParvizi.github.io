@@ -12,4 +12,4 @@ TBA
 TBA
 
 <!-- ![]() -->
-<!-- ![](/images/bachelor.png)> 
+<!-- ![](/images/bachelor.png) --> 
