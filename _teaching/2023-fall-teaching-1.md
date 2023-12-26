@@ -19,3 +19,5 @@ This is an introductory course on the statistical mechanics.
 - Quantum Statistical Mechanics
 
 Text Book: "Statistical Physics of Particles", by Mehran Kardar, Cambridge University Press, 2007.
+
+I have made some simulation in this course, e.g., the Naive Bayes method for classification. Visit my github https://github.com/ShahrokhParvizi/Naive-Bayes/blob/main/naive-bayes.ipynb
